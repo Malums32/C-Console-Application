@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hDsFqKxLHJQ6G5roqcXLFZTSohvVmvTKG2lXelC24qEMmnceUHnRSBBUwOd5uFuXbZPc4foSQzr03CY5A7wcfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mfundo mthembu\\OneDrive - University of Cape Town\\Documents\\ProductASortingApp -Mfundo Mthembu\\ProductASortingApp\\ProductASortingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mfundo mthembu\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\mfundo mthembu\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\mfundo mthembu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mfundo mthembu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\mfundo mthembu\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\mfundo mthembu\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\mfundo mthembu\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

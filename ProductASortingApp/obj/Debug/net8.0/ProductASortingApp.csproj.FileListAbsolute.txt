@@ -1,0 +1,32 @@
+C:\Users\mfundo mthembu\source\repos\ProductASortingApp\bin\Debug\net8.0\Program.cs
+C:\Users\mfundo mthembu\source\repos\ProductASortingApp\bin\Debug\net8.0\ProductASortingApp.exe
+C:\Users\mfundo mthembu\source\repos\ProductASortingApp\bin\Debug\net8.0\ProductASortingApp.deps.json
+C:\Users\mfundo mthembu\source\repos\ProductASortingApp\bin\Debug\net8.0\ProductASortingApp.runtimeconfig.json
+C:\Users\mfundo mthembu\source\repos\ProductASortingApp\bin\Debug\net8.0\ProductASortingApp.dll
+C:\Users\mfundo mthembu\source\repos\ProductASortingApp\bin\Debug\net8.0\ProductASortingApp.pdb
+C:\Users\mfundo mthembu\source\repos\ProductASortingApp\obj\Debug\net8.0\ProductASortingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfundo mthembu\source\repos\ProductASortingApp\obj\Debug\net8.0\ProductASortingApp.AssemblyInfoInputs.cache
+C:\Users\mfundo mthembu\source\repos\ProductASortingApp\obj\Debug\net8.0\ProductASortingApp.AssemblyInfo.cs
+C:\Users\mfundo mthembu\source\repos\ProductASortingApp\obj\Debug\net8.0\ProductASortingApp.csproj.CoreCompileInputs.cache
+C:\Users\mfundo mthembu\source\repos\ProductASortingApp\obj\Debug\net8.0\ProductASortingApp.dll
+C:\Users\mfundo mthembu\source\repos\ProductASortingApp\obj\Debug\net8.0\refint\ProductASortingApp.dll
+C:\Users\mfundo mthembu\source\repos\ProductASortingApp\obj\Debug\net8.0\ProductASortingApp.pdb
+C:\Users\mfundo mthembu\source\repos\ProductASortingApp\obj\Debug\net8.0\ProductASortingApp.genruntimeconfig.cache
+C:\Users\mfundo mthembu\source\repos\ProductASortingApp\obj\Debug\net8.0\ref\ProductASortingApp.dll
+C:\Users\mfundo mthembu\source\repos\ProductASortingApp\bin\Debug\net8.0\ProductList.csv
+C:\Users\mfundo mthembu\OneDrive - University of Cape Town\Documents\ProductASortingApp -Mfundo Mthembu\ProductASortingApp\bin\Debug\net8.0\Program.cs
+C:\Users\mfundo mthembu\OneDrive - University of Cape Town\Documents\ProductASortingApp -Mfundo Mthembu\ProductASortingApp\bin\Debug\net8.0\ProductASortingApp.exe
+C:\Users\mfundo mthembu\OneDrive - University of Cape Town\Documents\ProductASortingApp -Mfundo Mthembu\ProductASortingApp\bin\Debug\net8.0\ProductList.csv
+C:\Users\mfundo mthembu\OneDrive - University of Cape Town\Documents\ProductASortingApp -Mfundo Mthembu\ProductASortingApp\bin\Debug\net8.0\ProductASortingApp.deps.json
+C:\Users\mfundo mthembu\OneDrive - University of Cape Town\Documents\ProductASortingApp -Mfundo Mthembu\ProductASortingApp\bin\Debug\net8.0\ProductASortingApp.runtimeconfig.json
+C:\Users\mfundo mthembu\OneDrive - University of Cape Town\Documents\ProductASortingApp -Mfundo Mthembu\ProductASortingApp\bin\Debug\net8.0\ProductASortingApp.dll
+C:\Users\mfundo mthembu\OneDrive - University of Cape Town\Documents\ProductASortingApp -Mfundo Mthembu\ProductASortingApp\bin\Debug\net8.0\ProductASortingApp.pdb
+C:\Users\mfundo mthembu\OneDrive - University of Cape Town\Documents\ProductASortingApp -Mfundo Mthembu\ProductASortingApp\obj\Debug\net8.0\ProductASortingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfundo mthembu\OneDrive - University of Cape Town\Documents\ProductASortingApp -Mfundo Mthembu\ProductASortingApp\obj\Debug\net8.0\ProductASortingApp.AssemblyInfoInputs.cache
+C:\Users\mfundo mthembu\OneDrive - University of Cape Town\Documents\ProductASortingApp -Mfundo Mthembu\ProductASortingApp\obj\Debug\net8.0\ProductASortingApp.AssemblyInfo.cs
+C:\Users\mfundo mthembu\OneDrive - University of Cape Town\Documents\ProductASortingApp -Mfundo Mthembu\ProductASortingApp\obj\Debug\net8.0\ProductASortingApp.csproj.CoreCompileInputs.cache
+C:\Users\mfundo mthembu\OneDrive - University of Cape Town\Documents\ProductASortingApp -Mfundo Mthembu\ProductASortingApp\obj\Debug\net8.0\ProductASortingApp.dll
+C:\Users\mfundo mthembu\OneDrive - University of Cape Town\Documents\ProductASortingApp -Mfundo Mthembu\ProductASortingApp\obj\Debug\net8.0\refint\ProductASortingApp.dll
+C:\Users\mfundo mthembu\OneDrive - University of Cape Town\Documents\ProductASortingApp -Mfundo Mthembu\ProductASortingApp\obj\Debug\net8.0\ProductASortingApp.pdb
+C:\Users\mfundo mthembu\OneDrive - University of Cape Town\Documents\ProductASortingApp -Mfundo Mthembu\ProductASortingApp\obj\Debug\net8.0\ProductASortingApp.genruntimeconfig.cache
+C:\Users\mfundo mthembu\OneDrive - University of Cape Town\Documents\ProductASortingApp -Mfundo Mthembu\ProductASortingApp\obj\Debug\net8.0\ref\ProductASortingApp.dll
